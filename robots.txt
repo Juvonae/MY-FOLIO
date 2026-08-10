@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Juvonae.github.io/sitemap.xml
+Sitemap: https://Juvonae.github.io/MY-FOLIO/sitemap.xml
